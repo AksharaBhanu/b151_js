@@ -1,1 +1,15 @@
-GE
+time: 8.30 to 10PM
+Mon-Fri
+Zoom link: same zoom link
+https://us02web.zoom.us/j/81384948823 (Passcode: live)
+code, diagrams, notes --> GitHub 
+https://github.com/AksharaBhanu/b151_js.git
+
+Playwright--> Free and Open Source Web App test Automation tool
+2020 --MS
+supports os: windows mac Linux (all)
+browser: chrome edge firefox safari
+language: python , java .net (C#) node.js(JS & type script)
+
+Java script -easy and quick
+-----------------------------------
