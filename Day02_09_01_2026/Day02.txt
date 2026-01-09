@@ -1,3 +1,25 @@
+To watch B151 Javascript videos on mobile app for FREE
+Please follow the steps
+
+A. Open Akshara Mobile App
+B. Click 'Batches' at the bottom of the screen
+C. Click +
+D. Enter the batch code as B151 and click OK
+
+After your batch request is approved follow the below Steps
+
+1. Open Akshara Mobile App
+2. Click Batches at the bottom of the screen
+3. Click on B151-8.30PM-Javascript 
+4. Click Videos tab
+
+Link to download the mobile app
+https://aksharatraining.com/mobile-app/
+
+Thank You
+Team Akshara
+
+9481787493
 time: 8.30 to 10PM
 Mon-Fri
 Zoom link: same zoom link
@@ -13,3 +35,155 @@ language: python , java .net (C#) node.js(JS & type script)
 
 Java script -easy and quick
 -----------------------------------
+JS--> 30 days 1.5month
+PW->30 days 1.5 month
+------------>
+IT -- Manual testing 0 to 15 
+-------------->
+computers--> calculate --> maths--> 0 & 1 --> binary language 
+
+language: media of communication 
+
+to give some instruction to the computer : 000 1111--> 0 1 2 3 9 10--> ASCII 
+
+65 66 ---A --> word --> HLL
+
+LLL--> binary
+HLL--> C C++ java python js ts... ->> English like ...
+
+speaking language --> 
+
+translation  HLL--LLL 
+line by line --> interpretation
+
+complete code --> compilation
+
+----   syntax (rule of the language) --> convert 
+-
+-
+-
+-
+-
+-
+
+
+it will check all the 10 lines --> compilation --> compiler 
+
+
+
+C C++ java TypeScript---> compiled
+JS Python VBS shell --> interpreted 
+
+1990--> internet --> web sites--> static pages html +css 
+
+Brendan 1995 - Netscape --> for dynamic website --> Mocha --> Live Script --> JS 
+Sun microsystem --> Java 
+1996 -Gates--> JScript
+
+JS - free and open source --only in client side
+
+JS was supported only in client side (browser)
+
+2009 --node.js (node means server) --> we can run js without the browser
+
+Language : media communication
+interpreter --> line by line
+compiler --> complete code will be converted
+
+statement --> 1 valid instruction
+
+syntax: rule to write the code
+
+How to run JS in browser?
+open the browser
+go to google.com
+right click anywhere on the page and select 'inspect'
+it will display 'developer tool bar'
+go to 2nd tab console
+type alert(1234) and press enter
+
+All the browser are capable of processing HTML+CSS+JS
+
+to run JS directly on the system (not inside the browser) --> we need node.js
+
+https://nodejs.org/en/download
+
+double click on the downloaded installer , follow the instructions (next next finish)
+
+to verify 
+
+open cmd/terminal  and run node --version--> v24.12.0
+
+My 1st js code
+
+1. open the note pad
+2. write the code --> console.log(123);
+3. save it in req location with the extension .js ex: demo1.js in e:
+4. open the cmd
+5. node path of the .js file  >node e:/demo1.js   and press enter
+
+
+to write code We use IDE (Integrated Development Environment) 
+
+Dev
+1. write code
+2. compile 
+3. run
+4. debug
+5. review
+6. SCM
+7. unit testing
+8. code coverage..
+
+
+for JS we use VS code
+https://code.visualstudio.com/
+
+download and install
+
+1. create a folder --> B151_Project
+2. open the VS code 
+3. File--> Open Folder
+4. browse and select above created folder 
+5. create a folder "day02" under B151_Project
+6. create a file demo1.js under day02
+7. write the code --> console.log('hi');
+8. run the code
+    right click on demo1.js
+    select 'open in integrated terminal'
+    node demo1.js
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
